@@ -1,0 +1,43 @@
+h1{
+	color: #b3003b; 
+	font-family: 'Ranchers', cursive;
+    text-align: center;
+    font-size:100px;
+}
+#primerh2 {
+	color: #808080;
+	font-family: 'Ranchers', cursive;
+	text-align: center;
+}
+#primerparrafo {
+		color: #808080;
+		font-family: 'Ranchers', cursive;
+		text-align: center;											
+			border-width: 3px;	
+			border-style: dotted;
+			border-color: #0088dd;
+}
+.parrafoazul{
+	color:blue;
+	text-align: center;
+}
+body {
+	background-color: #ffccff;
+	}
+img {
+	width: 304px;
+	height: 228px; 
+	text-align: center;
+}
+ul {
+	color: black;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;	
+}
+button:hover {
+	background-color: #b3ffd7 !important;
+}
+.imagenprincipal {
+	width: 100%;
+	text-align:center;
+}

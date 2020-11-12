@@ -40,6 +40,12 @@ h2{
 	font-family: 'Lobster' !important;
 }
 
+.imagenprincipal {
+	width: 100%;
+	height: 100%;
+	text-align:center;
+}
+
 
 .treat-button {
   font-family: 'Fascinate Inline', cursive !important;
@@ -70,11 +76,6 @@ h2{
  }
 
   
-}
-.imagenprincipal {
-	width: 100%;
-	height: 100%;
-	text-align:center;
 }
 
 .treat {

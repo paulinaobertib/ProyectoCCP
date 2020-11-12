@@ -1,28 +1,28 @@
 h1{
-	color: #b3003b; 
-	font-family: 'Ranchers', cursive;
+	color: #b3003b !important; 
+	font-family: 'Ranchers', cursive !important;
     text-align: center;
-    font-size:100px;
+    font-size:100px !important;
 }
 #primerh2 {
 	color: #808080;
-	font-family: 'Ranchers', cursive;
+	font-family: 'Ranchers', cursive !important;
 	text-align: center;
 }
 #primerparrafo {
 		color: #808080;
-		font-family: 'Ranchers', cursive;
+		font-family: 'Ranchers', cursive !important;
 		text-align: center;											
 			border-width: 3px;	
 			border-style: dotted;
 			border-color: #0088dd;
 }
 .parrafoazul{
-	color:blue;
+	color:blue !important;
 	text-align: center;
 }
 body {
-	background-color: #e6e6ff;
+	background-color: #e6e6ff !important;
 	text-align: center;
 	}
 img {
@@ -35,8 +35,14 @@ ul {
 	font-family: 'Roboto Slab', serif;
 	text-align: center;	
 }
+
+h2{
+	font-family: 'Lobster' !important;
+}
+
+
 .treat-button {
-  font-family: 'Fascinate Inline', cursive;
+  font-family: 'Fascinate Inline', cursive !important;
   font-size: 2vmin;
   appearance: none;
   background: linear-gradient(to bottom, #cceeff, #b3e6ff);

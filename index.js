@@ -1,13 +1,12 @@
 alert("A COCINAR!!");
 
-var las_preparaciones=prompt ("Que te gustaria cocinar? budin, tarta, galletas, bizcochuelos?");
+var las_preparaciones=prompt ("¿Preferis lo dulce o lo salado?");
 
-if (las_preparaciones=="budin"||"tarta") {
-	alert("que delicia!")
+if (las_preparaciones=="dulce") {
+	alert("¡Buenisima tu eleccion!")
 }
 else {
-	alert("que rico!")
+	alert("Me enacanta tu eleccion!")
 }
-
 
 

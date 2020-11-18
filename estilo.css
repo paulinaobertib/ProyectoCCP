@@ -30,6 +30,7 @@ img {
 	width: 304px;
 	height: 290px; 
 	text-align: center;
+	opacity: 0.87;
 }
 
 ul {
@@ -49,8 +50,8 @@ h2{
 	font-family: 'Lobster' !important;
 			border-width: 3px;	
 			border-style: dotted;
-			border-color: #ffd9cc;
-			background-color: #ffece6 !important;
+			border-color: #ffece6;
+			background-color: #ffd9cc !important;
 }
 
 .imagenprincipal {
@@ -62,8 +63,8 @@ h2{
 .preferencia {
   	text-align: center;
   	font-family: 'Merriweather', serif; 
-  	font-size: 50px;
-  	color: #4d004d;
+  	font-size: 36px;
+  	color: #808080;
   			border-width: 3px;	
 			border-style: dotted;
 			border-color: #ffd9cc;
@@ -73,8 +74,8 @@ h2{
 .pref {
 	text-align: center;
   	font-family: 'Merriweather', serif;  
-  	font-size: 30px;
-  	color: #800080 !important;
+  	font-size: 20px;
+  	color: #bfbfbf !important;
   			border-width: 3px;	
 			border-style: dotted;
 			border-color: #ffd9cc;
@@ -87,10 +88,10 @@ h2{
 .treat-button {
   font-family: 'Merriweather', serif;
   font-size: 2vmin;
+  font-style:#b3003b !important ;
   appearance: none;
-  background: linear-gradient(to bottom, #cceeff, #b3e6ff);
+  background: #ffece6;
   border: none;
-  color:#cceeff !important;
   border-radius: 2em;
   padding: .6em 1.5em;
   overflow: hidden;

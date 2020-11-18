@@ -4,18 +4,15 @@ h1{
     text-align: center;
     font-size:180px !important;
 }
-#primerh2 {
-	color: #808080;
-	font-family: 'Ranchers', cursive !important;
-	text-align: center;
-}
+
 #primerparrafo {
 		color: #808080;
 		font-family: 'Ranchers', cursive !important;
 		text-align: center;											
 			border-width: 3px;	
 			border-style: dotted;
-			border-color: #0088dd;
+			border-color: #ffd9cc;
+			background-color: #ffece6 !important;
 		font-size:30px !important	
 }
 
@@ -25,7 +22,7 @@ h1{
 }
 
 body {
-	background-color: #e6e6ff !important;
+	background-image: url("fondo.jpg");
 	text-align: center;
 	}
 
@@ -38,12 +35,22 @@ img {
 ul {
 	color: black;
 	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
 	text-align: center;	
-	font-size:20px !important
+	font-size:30px !important
+			border-width: 3px;	
+			border-style: dotted;
+			border-color: #ffd9cc;
+			background-color: #ffece6 !important;
 }
+
 
 h2{
 	font-family: 'Lobster' !important;
+			border-width: 3px;	
+			border-style: dotted;
+			border-color: #ffd9cc;
+			background-color: #ffece6 !important;
 }
 
 .imagenprincipal {
@@ -56,15 +63,25 @@ h2{
   	text-align: center;
   	font-family: 'Merriweather', serif; 
   	font-size: 50px;
-  	color: #8c1aff;
+  	color: #4d004d;
+  			border-width: 3px;	
+			border-style: dotted;
+			border-color: #ffd9cc;
+			background-color: #ffece6 !important;
 }
 
 .pref {
 	text-align: center;
   	font-family: 'Merriweather', serif;  
   	font-size: 30px;
-  	color: #bf80ff !important;
+  	color: #800080 !important;
+  			border-width: 3px;	
+			border-style: dotted;
+			border-color: #ffd9cc;
+			background-color: #ffece6 !important
+
 }
+
 
 
 .treat-button {

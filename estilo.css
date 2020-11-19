@@ -1,3 +1,16 @@
+@media screen and (max-width: 480px){
+    #encabezado{
+        height: auto;
+    }
+    #contenido{
+        width: auto;
+    }
+    #barra_lateral{
+        display:none;
+    }
+}
+
+
 h1{
 	color: #b3003b !important; 
 	font-family: 'Ranchers', cursive !important;
